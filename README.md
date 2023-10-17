@@ -4,4 +4,6 @@ RF Extender Protocol: SynkroRF
 
 OS: QNX
 
+Region_1.EzHex - IFS image of system partition (use dumpifs)
+
 Telnet: root/ethanol
